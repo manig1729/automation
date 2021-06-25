@@ -9,4 +9,4 @@ combinePdfs.py will take all the pdfs in the current working directory and combi
 
 ### Automatic Twitter 'bot'
 
-song_tweet.py uses the Twitter API to tweet song recommendations automatically. Songs are choosen randomly from a collection of over 100 songs in the excel file Song_list.xlsx. Using pythonanywhere (www.pythonanywhere.com), this script used to run once a day at 6:30 UTC
+song_tweet.py uses the Twitter API to tweet song recommendations automatically. Songs are choosen randomly from a collection of over 100 songs in the excel file Song_list.xlsx.
