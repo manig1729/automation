@@ -7,7 +7,7 @@ import PyPDF2, os
 
 # if PyPDF2 is not install, install using : pip install PyPDF2
 
-# All the pdf filenames will be stored in the pdfFiles array
+# All the pdf filenames in the current directory will be stored in the pdfFiles array
 pdfFiles = []
 for filename in os.listdir('.'):
     if filename.endswith('.pdf'):
